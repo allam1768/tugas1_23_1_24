@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_spinner_entries">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
